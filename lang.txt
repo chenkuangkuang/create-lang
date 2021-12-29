@@ -1,0 +1,13 @@
+["en-US", "zh-CN", "zh-TW"]
+
+home.createPost
+create Post
+发帖
+發帖
+
+home.createPostDes
+Share your thoughts
+分享你的想法
+分享你的想法
+
+
