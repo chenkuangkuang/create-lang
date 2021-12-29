@@ -1,13 +1,13 @@
 ["en-US", "zh-CN", "zh-TW"]
 
-home.createPost
-create Post
-发帖
-發帖
+home.createBlog
+create blog
+发博
+發博
 
 home.createPostDes
 Share your thoughts
-分享你的想法
-分享你的想法
+有什么新鲜事想分享给大家
+有什麽新鮮事想分享給大家
 
 
