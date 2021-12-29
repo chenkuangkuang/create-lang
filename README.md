@@ -4,7 +4,9 @@
 
 ###使用步骤
 
-1.编写 lang.txt’; 2.命令行执行 node app； 3.等待 lang 文件夹中的语言包文件生成；
+1.编写 lang.txt; 
+2.命令行执行 node app； 
+3.等待 lang 文件夹中的语言包文件生成；
 
 ###lang.txt 编写格式
 
@@ -20,3 +22,5 @@ key
 "zh-TW"语言中 key 对应的语言文本
 结束则留一个空行
 再开始新 key……
+
+*本项目参考了 https://github.com/Ghostliming/local-lang
